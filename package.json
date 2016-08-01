@@ -1,0 +1,24 @@
+{
+  "name": "poker-21",
+  "version": "1.0.0",
+  "description": "## 注意！",
+  "main": "run-test.js",
+  "dependencies": {
+    "lodash": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevilLittle/poker-21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevilLittle/poker-21/issues"
+  },
+  "homepage": "https://github.com/DevilLittle/poker-21#readme"
+}

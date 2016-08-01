@@ -1,1 +1,8 @@
-the poker game, 21 points
+Poker 21 point Game
+===================
+
+```
+npm install -g jasmine
+npm install
+jasmine
+```
